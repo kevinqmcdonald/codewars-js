@@ -1,4 +1,2 @@
-# codewars
-Testing skeleton for [codewars](https://www.codewars.com/) JavaScript Katas.
-- Base skeleton is `master`
-- Individual katas are branches
+# Stop gninnipS My sdroW! - 5 Kyu
+[Link](https://www.codewars.com/kata/5264d2b162488dc400000001)
