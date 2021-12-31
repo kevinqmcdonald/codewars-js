@@ -1,3 +1,6 @@
 // app/kata.js
 
-// Insert code here
+exports.countSmileys = (arr) => {
+  const regex = new RegExp("^[;:][~-]?[\)D]$")
+  return arr.filter(val => regex.test(val)).length;
+}
