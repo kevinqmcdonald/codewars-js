@@ -1,4 +1,2 @@
-# codewars
-Testing skeleton for [codewars](https://www.codewars.com/) JavaScript Katas.
-- Base skeleton is `master`
-- Individual katas are branches
+# Extract the domain name from a URL
+[Link](https://www.codewars.com/kata/514a024011ea4fb54200004b)
