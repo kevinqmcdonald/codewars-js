@@ -1,6 +1,8 @@
 // app/kata.js
 
 // Insert code here
-module.exports = {
+class Kata {
 
 }
+
+module.exports = Kata;
