@@ -1,4 +1,2 @@
-# codewars
-Testing skeleton for [codewars](https://www.codewars.com/) JavaScript Katas.
-- Base skeleton is `master`
-- Individual katas are branches
+# RGB To Hex Conversion - 5 Kyu
+[Link](https://www.codewars.com/kata/513e08acc600c94f01000001)
