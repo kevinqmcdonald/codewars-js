@@ -1,4 +1,2 @@
-# codewars
-Testing skeleton for [codewars](https://www.codewars.com/) JavaScript Katas.
-- Base skeleton is `master`
-- Individual katas are branches
+# Adding Big Numbers - 4 Kyu
+[Link](https://www.codewars.com/kata/525f4206b73515bffb000b21)
