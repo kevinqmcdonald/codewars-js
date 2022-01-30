@@ -1,4 +1,2 @@
-# codewars
-Testing skeleton for [codewars](https://www.codewars.com/) JavaScript Katas.
-- Base skeleton is `master`
-- Individual katas are branches
+# PaginationHelper - 5 Kyu
+[Link](https://www.codewars.com/kata/515bb423de843ea99400000a)
