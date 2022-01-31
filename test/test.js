@@ -1,4 +1,4 @@
-const Kata = require("../app/kata");
+//const { } = require("../app/kata");
 const expect = require("chai").expect;
 
 describe("Tests", () => {
