@@ -1,4 +1,2 @@
-# codewars
-Testing skeleton for [codewars](https://www.codewars.com/) JavaScript Katas.
-- Base skeleton is `master`
-- Individual katas are branches
+# Remove Zeros - 4 Kyu
+[Link](https://www.codewars.com/kata/52aae14aa7fd03d57400058f)
